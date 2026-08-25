@@ -1,0 +1,8 @@
+.dotnet-cli-home*/
+**/bin/
+**/obj/
+References/
+release/
+/Assets/
+/*.zip
+/docs
